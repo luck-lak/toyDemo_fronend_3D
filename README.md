@@ -4,7 +4,7 @@ A tiny 3D graphics demo built from scratch with **JavaScript and HTML Canvas**, 
 
 The project implements a simple rotating cube using basic 3D math and perspective projection.
 
-##Inspiration
+## Inspiration
 [Video](https://www.bilibili.com/video/BV13Fjn6QEyn/?spm_id_from=333.1387.homepage.video_card.click&vd_source=a4a0736acb7950c85bdfba64049f10ab)
 
 ## Demo
