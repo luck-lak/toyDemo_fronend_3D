@@ -1,5 +1,7 @@
 # Toy 3D Demo
 
+[View in Github Page](https://luck-lak.github.io/toyDemo_fronend_3D/)
+
 A tiny 3D graphics demo built from scratch with **JavaScript and HTML Canvas**, without using any 3D graphics library.
 
 The project implements a simple rotating cube using basic 3D math and perspective projection.
